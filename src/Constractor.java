@@ -1,7 +1,7 @@
 
 public class Constractor {
 	
-	int n,i,r;
+	int n,i,r,l;
 	String s;
 	Constractor(int a,String y){
 		n=a;
